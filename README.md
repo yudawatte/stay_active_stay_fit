@@ -1,2 +1,3 @@
-# stay_active_stay_fit
-Fitbit tracker data analysis to measure how activeness helps you to stay fit.
+# Stay Active - Stay Fit
+This analysis is based on thirty Fitbit user tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring.
+
